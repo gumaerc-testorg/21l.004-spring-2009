@@ -4,8 +4,13 @@ description: 'Poems written by W. B. Yeats presented as a reading assignment for
   course: Yeats, W. B. To A Young Girl, When You Are Old, To Ireland In The Coming
   Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give
   All The Heart.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-004-reading-poetry-spring-2009/1c2a6af94fabde6ddfd9cfbbb46cdb53_MIT21l_004s09_read01_yeats.pdf
+file: /media/courses/21l-004-reading-poetry-spring-2009/1c2a6af94fabde6ddfd9cfbbb46cdb53_MIT21l_004s09_read01_yeats.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Poems by Yeats
 uid: 1c2a6af9-4fab-de6d-dfd9-cfbbb46cdb53
