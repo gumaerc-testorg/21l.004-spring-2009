@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 resourcetype: Document
 title: Poems by Yeats
 uid: 1c2a6af9-4fab-de6d-dfd9-cfbbb46cdb53

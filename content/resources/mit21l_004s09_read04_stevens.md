@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 resourcetype: Document
 title: Wallace Stevens journal note
 uid: 0e990c4b-d61d-d5c2-bd3e-939fef7e5a4b

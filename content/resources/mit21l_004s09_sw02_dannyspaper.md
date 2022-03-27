@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cb5386fa-ef13-133f-00ae-0fa9a6b2e2f7
 resourcetype: Document
 title: "Murder me so I may Live: Donne\u2019s Paradox of Redemption"
 uid: 47837485-7875-dfd3-4209-8cb45169810c

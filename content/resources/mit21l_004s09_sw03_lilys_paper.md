@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cb5386fa-ef13-133f-00ae-0fa9a6b2e2f7
 resourcetype: Document
 title: A Holy Paradox
 uid: 31050417-901f-32e9-c266-414d00294cf1

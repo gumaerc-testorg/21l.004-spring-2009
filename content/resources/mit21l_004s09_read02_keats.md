@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 resourcetype: Document
 title: Keats' Negative Capability
 uid: 3f376145-c3ac-c6c2-0fa9-5019b6ef2f23

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cb5386fa-ef13-133f-00ae-0fa9a6b2e2f7
 resourcetype: Document
 title: Strategies for writing an effective introduction
 uid: e7e43058-4db0-a825-da4f-5a280720d2c3

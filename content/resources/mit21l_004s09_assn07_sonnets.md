@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cb5386fa-ef13-133f-00ae-0fa9a6b2e2f7
 resourcetype: Document
 title: Notes on the sonnet
 uid: 23cada3a-6a2d-d916-4942-6cc66e9926b3
