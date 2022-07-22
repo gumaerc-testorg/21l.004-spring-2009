@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of reading assignments and the list
+  of required and recommended texts for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 ---
@@ -36,7 +41,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Yeats, W. B. _To A Young Girl, When You Are Old, To Ireland In The Coming Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give All The Heart._ ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read01_yeats))
+Yeats, W. B. _To A Young Girl, When You Are Old, To Ireland In The Coming Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give All The Heart._ ({{% resource_link 1c2a6af9-4fab-de6d-dfd9-cfbbb46cdb53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,11 +100,11 @@ Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poem
 
 Hopkins, Gerard Manley. [_As Kingfishers Catch Fire, Dragonflies Draw Flame_](http://www.poets.org/viewmedia.php/prmMID/20757). \[Includes poem text and audio\]
 
-Keats, John. "Letter on Negative Capability, 1818" ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read02_keats))
+Keats, John. "Letter on Negative Capability, 1818" ({{% resource_link 3f376145-c3ac-c6c2-0fa9-5019b6ef2f23 "PDF" %}})
 
 Chapter 6. "Constructing A Self." \[HV\]
 
-Whitman, Walt. _Beginning My Studies_. ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read03_whitman))
+Whitman, Walt. _Beginning My Studies_. ({{% resource_link fa65de3b-a0cf-a5f9-a949-1c521f88c8f6 "PDF" %}})
 
 ———. [_Song of Myself_](http://www.poets.org/viewmedia.php/prmMID/15755).
 
@@ -162,7 +167,7 @@ Eliot, T. S. "Tradition and the Individual Talent." In _The Sacred Wood: Essays 
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Wallace Stevens journal note ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read04_stevens))
+Wallace Stevens journal note ({{% resource_link 0e990c4b-d61d-d5c2-bd3e-939fef7e5a4b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

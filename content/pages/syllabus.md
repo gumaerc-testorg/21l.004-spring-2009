@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, grading, required and recommended texts, writing
+  assignments, a statement on plagiarism, and the schedule of lecture topics and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: aace887d-7bcd-350c-ead7-2b23032a0664
 ---

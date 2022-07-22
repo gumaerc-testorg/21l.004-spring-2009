@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, general guidelines,
+  useful links, and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cb5386fa-ef13-133f-00ae-0fa9a6b2e2f7
 ---
@@ -9,14 +14,14 @@ This page presents examples of [student work](#Student_Work).
 General
 -------
 
-Essay guidelines ([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn05_essay))  
+Essay guidelines ({{% resource_link 0643e958-7a28-e83f-48b1-731f6f803711 "PDF" %}})  
 Do's and don'ts for your essays and how to format and quote.
 
 [Strategies for writing an effective introduction](https://writingcenter.unc.edu/tips-and-tools/introductions/)
 
 [Topic Sentences](https://web.archive.org/web/20100129071053/http://www.nd.edu/~writing/resources/TopicSentences.htm)
 
-Background on sonnets ([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn07_sonnets))  
+Background on sonnets ({{% resource_link 23cada3a-6a2d-d916-4942-6cc66e9926b3 "PDF" %}})  
 This goes with the reading assignments of Yeats and Wordsworth.
 
 Assignments
@@ -87,7 +92,7 @@ Come to class with plentiful observations on "The World Is Too Much With Us." Tr
 Week #4 (paper 1)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn01_paper1))
+({{% resource_link d5a922d3-596e-c0b8-3ec9-28b361738dd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ On material in Vendler appendices 1 and 2; pp. 27-47 and 107-133.
 Week #6 (paper 2)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn02_paper2))
+({{% resource_link ca75fe60-67a5-967a-a761-3690fcde3fa0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +138,7 @@ Week #6 (paper 2)
 Week #12 (paper 3)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn03_paper3))
+({{% resource_link 6df56120-98cd-0238-2a28-0c0620bfed8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Week #12 (paper 3)
 Week #13 (paper 4 revision)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_004s09_assn04_paper4rev))
+({{% resource_link d20c8d58-1d44-8404-dbfd-d8ecb8e865bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +187,7 @@ ASSIGNMENTS
 Tony McDonald
 {{< tdclose >}}
 {{< tdopen >}}
-The house Was quiet and the World was calm ([PDF]({{< baseurl >}}/resources/mit21l_004s09_sw01_tonyspaper)) (Courtesy of Tony McDonald. Used with permission)
+The house Was quiet and the World was calm ({{% resource_link cccd21ba-7a15-ee0f-857d-8d38c5eb7de5 "PDF" %}}) (Courtesy of Tony McDonald. Used with permission)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +196,7 @@ The house Was quiet and the World was calm ([PDF]({{< baseurl >}}/resources/mit2
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-Murder me so I may live ([PDF]({{< baseurl >}}/resources/mit21l_004s09_sw02_dannyspaper)) (Courtesy of MIT Student. Used with permission)
+Murder me so I may live ({{% resource_link 47837485-7875-dfd3-4209-8cb45169810c "PDF" %}}) (Courtesy of MIT Student. Used with permission)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +205,7 @@ Murder me so I may live ([PDF]({{< baseurl >}}/resources/mit21l_004s09_sw02_dann
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-A holy paradox ([PDF]({{< baseurl >}}/resources/mit21l_004s09_sw03_lilys_paper)) (Courtesy of MIT Student. Used with permission)
+A holy paradox ({{% resource_link 31050417-901f-32e9-c266-414d00294cf1 "PDF" %}}) (Courtesy of MIT Student. Used with permission)
 {{< tdclose >}}
 
 {{< trclose >}}
