@@ -5,6 +5,7 @@ file: /courses/21l-004-reading-poetry-spring-2009/e7e430584db0a825da4f5a280720d2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Strategies for writing an effective introduction
 uid: e7e43058-4db0-a825-da4f-5a280720d2c3
 ---
 Handout on strategies for writing an effective introduction.
-

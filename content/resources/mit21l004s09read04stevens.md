@@ -6,6 +6,7 @@ file: /courses/21l-004-reading-poetry-spring-2009/035c862d93a31bb664c0a06b7a5cf9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Wallace Stevens journal note
 uid: 035c862d-93a3-1bb6-64c0-a06b7a5cf968
 ---
 Excerpt from Souvenirs and Prophecies, by Wallace Stevens, presented as a reading assignment for the course.
-

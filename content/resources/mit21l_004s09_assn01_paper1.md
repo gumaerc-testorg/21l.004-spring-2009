@@ -6,6 +6,7 @@ file: /courses/21l-004-reading-poetry-spring-2009/d5a922d3596ec0b83ec928b361738d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Paper #1'
 uid: d5a922d3-596e-c0b8-3ec9-28b361738dd3
 ---
 Assignment to write a short paper about either sonnet “Leda and the Swan” or "The World Is Too Much With Us.” 
-
