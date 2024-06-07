@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout on strategies for writing an effective introduction.
 file: /courses/21l-004-reading-poetry-spring-2009/e7e430584db0a825da4f5a280720d2c3_MIT21l_004s09_assn06_revision.pdf
+file_size: 47912
 file_type: application/pdf
 learning_resource_types:
 - Assignments

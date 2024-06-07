@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on writing essays for the course.
 file: /courses/21l-004-reading-poetry-spring-2009/0643e9587a28e83f48b1731f6f803711_MIT21l_004s09_assn05_essay.pdf
+file_size: 16259
 file_type: application/pdf
 learning_resource_types:
 - Assignments

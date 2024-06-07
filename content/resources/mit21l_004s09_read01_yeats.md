@@ -5,6 +5,7 @@ description: 'Poems written by W. B. Yeats presented as a reading assignment for
   Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give
   All The Heart.'
 file: /courses/21l-004-reading-poetry-spring-2009/1c2a6af94fabde6ddfd9cfbbb46cdb53_MIT21l_004s09_read01_yeats.pdf
+file_size: 35261
 file_type: application/pdf
 learning_resource_types:
 - Readings
