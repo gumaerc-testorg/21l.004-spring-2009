@@ -2,7 +2,7 @@
 content_type: resource
 description: "Assignment to write a short paper about either sonnet \u201CLeda and\
   \ the Swan\u201D or \"The World Is Too Much With Us.\u201D "
-file: /courses/21l-004-reading-poetry-spring-2009/d5a922d3596ec0b83ec928b361738dd3_MIT21l_004s09_assn01_paper1.pdf
+file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/d5a922d3596ec0b83ec928b361738dd3_MIT21l_004s09_assn01_paper1.pdf
 file_size: 17934
 file_type: application/pdf
 learning_resource_types:
