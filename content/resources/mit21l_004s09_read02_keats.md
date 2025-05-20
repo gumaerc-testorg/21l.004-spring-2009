@@ -2,7 +2,7 @@
 content_type: resource
 description: Excerpt from "Letter on Negative Capability, 1818," by John Keats, presented
   as a reading assignment for the course.
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/3f376145c3acc6c20fa95019b6ef2f23_MIT21l_004s09_read02_keats.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/3f376145c3acc6c20fa95019b6ef2f23_MIT21l_004s09_read02_keats.pdf
 file_size: 19845
 file_type: application/pdf
 learning_resource_types:
