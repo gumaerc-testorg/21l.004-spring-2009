@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to write a response paper on one of three poems.
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/ca75fe6067a5967aa7613690fcde3fa0_MIT21l_004s09_assn02_paper2.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/ca75fe6067a5967aa7613690fcde3fa0_MIT21l_004s09_assn02_paper2.pdf
 file_size: 17084
 file_type: application/pdf
 learning_resource_types:

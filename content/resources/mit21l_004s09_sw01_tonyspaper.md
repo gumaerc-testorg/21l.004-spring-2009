@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: an essay on "The House Was Quiet And The World
   Was Calm" by Walt Whitman.'
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/cccd21ba7a15ee0f857d8d38c5eb7de5_MIT21l_004s09_sw01_TonysPaper.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/cccd21ba7a15ee0f857d8d38c5eb7de5_MIT21l_004s09_sw01_TonysPaper.pdf
 file_size: 50179
 file_type: application/pdf
 learning_resource_types:
