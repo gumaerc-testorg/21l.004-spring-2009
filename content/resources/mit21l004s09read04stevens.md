@@ -2,7 +2,7 @@
 content_type: resource
 description: Excerpt from Souvenirs and Prophecies, by Wallace Stevens, presented
   as a reading assignment for the course.
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/035c862d93a31bb664c0a06b7a5cf968_MIT21l004s09read04stevens.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/035c862d93a31bb664c0a06b7a5cf968_MIT21l004s09read04stevens.pdf
 file_size: 15336
 file_type: application/pdf
 learning_resource_types:

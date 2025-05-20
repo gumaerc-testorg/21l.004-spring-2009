@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write a short paper about pairs of poems by different poets
   or groups of poems by the same poet.
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/6df5612098cd02382a280c0620bfed8d_MIT21l_004s09_assn03_paper3.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/6df5612098cd02382a280c0620bfed8d_MIT21l_004s09_assn03_paper3.pdf
 file_size: 21864
 file_type: application/pdf
 learning_resource_types:

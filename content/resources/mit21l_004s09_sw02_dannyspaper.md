@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on John Donne''s fourteenth Holy Sonnet.'
-file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/478374857875dfd342098cb45169810c_MIT21l_004s09_sw02_DannysPaper.pdf
+file: /courses/21l-004-reading-poetry-spring-2009/478374857875dfd342098cb45169810c_MIT21l_004s09_sw02_DannysPaper.pdf
 file_size: 36483
 file_type: application/pdf
 learning_resource_types:
