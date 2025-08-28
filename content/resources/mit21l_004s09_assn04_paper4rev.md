@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to rewrite and revise one of the papers the student has already
   written for the course.
-file: /courses/21l-004-reading-poetry-spring-2009/d20c8d581d448404dbfdd8ecb8e865bb_MIT21l_004s09_assn04_paper4Rev.pdf
+file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/d20c8d581d448404dbfdd8ecb8e865bb_MIT21l_004s09_assn04_paper4Rev.pdf
 file_size: 17224
 file_type: application/pdf
 learning_resource_types:

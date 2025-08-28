@@ -2,7 +2,7 @@
 content_type: resource
 description: Excerpt from Leaves of Grass, by Walt Whitman, presented as a reading
   assignment for the course.
-file: /courses/21l-004-reading-poetry-spring-2009/a82f5d28ba982a549e1aaa6f35a4c05d_MIT21l004s09read03whitman.pdf
+file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-spring-2009/a82f5d28ba982a549e1aaa6f35a4c05d_MIT21l004s09read03whitman.pdf
 file_size: 15142
 file_type: application/pdf
 learning_resource_types:
