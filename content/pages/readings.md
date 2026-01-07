@@ -12,14 +12,14 @@ uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 Required Texts
 --------------
 
-\[HV\] = Vendler, Helen. _Poems, Poets, Poetry: An Introduction and Anthology_. 2nd ed. New York, NY: Bedford/St. Martin's, 2002. ISBN: 9780312257064. \[{{% resource_link "cc8d35c5-bdff-4eeb-bdca-510f97b5fec8" "Preview" %}} a version of this work in Amazon.\]
+\[HV\] = Vendler, Helen. _Poems, Poets, Poetry: An Introduction and Anthology_. 2nd ed. New York, NY: Bedford/St. Martin's, 2002. ISBN: 9780312257064. \[[Preview](http://www.amazon.com/Poems-Poets-Poetry-Introduction-Anthology/dp/0312085370/ref=sr_1_1?ie=UTF8&s=books&qid=1247012615&sr=8-1#reader) a version of this work in Amazon.\]
 
 Recommended Texts
 -----------------
 
 _Merriam-Webster Dictionary_. Springfield, MA: Merriam-Webster, 2005 (paperback). ISBN: 9780877796367.
 
-Strunk, William, and E. B. White. _Elements of Style_. New York, NY: Penguin, 2007. ISBN: 9780143112723. \[{{% resource_link "4824f00e-0074-44e4-a7cf-090b3592ff07" "Preview" %}} this book in Amazon.\]
+Strunk, William, and E. B. White. _Elements of Style_. New York, NY: Penguin, 2007. ISBN: 9780143112723. \[[Preview](http://www.amazon.com/Elements-Style-Illustrated-William-Strunk/dp/0143112724/ref=sr_1_3?ie=UTF8&s=books&qid=1247012945&sr=8-3#reader) this book in Amazon.\]
 
 Hacker, Diana. _A Writer's Reference_. 6th ed. New York, NY: Bedford/St. Martin's, 2009. ISBN: 9780312593322.
 
@@ -64,7 +64,7 @@ Poetry animations. "Yeats, W. B. "The Lake Isle of Innisfree." Poem movie animat
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Stevens, Wallace. {{% resource_link "32ce053e-6fba-482f-8b7d-3e1012c20099" "_The House Was Quiet And The World Was Calm_" %}}.
+Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Stevens, Wallace. {{% resource_link "32ce053e-6fba-482f-8b7d-3e1012c20099" "_The
 
 Rich, Adrienne. "Mother-in-Law." \[HV\]
 
-Hopkins, Gerard Manley. "{{% resource_link "e84f4c01-fa82-40bf-a38f-00b1cf72a6fb" "Pied Beauty" %}}." \[HV\]
+Hopkins, Gerard Manley. "[Pied Beauty](http://www.poets.org/viewmedia.php/prmMID/15840)." \[HV\]
 
 Chapter 3. "Poems as Pleasures." \[HV\]
 
@@ -92,13 +92,13 @@ Chapter 3. "Poems as Pleasures." \[HV\]
 {{< tdopen >}}
 
 
-Donne, John. "{{% resource_link "bfb6387d-321a-48b4-9175-d0003538fe64" "Holy Sonnet 14" %}}." \[HV\]
+Donne, John. "[Holy Sonnet 14](http://www.poets.org/viewmedia.php/prmMID/20308)." \[HV\]
 
-———. "{{% resource_link "2e41c0b6-1c17-4acf-892a-76e3519416c6" "Holy Sonnet 10" %}}." \[HV\]
+———. "[Holy Sonnet 10](http://www.poets.org/viewmedia.php/prmMID/15836)." \[HV\]
 
-Stevens, Wallace. {{% resource_link "32ce053e-6fba-482f-8b7d-3e1012c20099" "_The House Was Quiet And The World Was Calm_" %}}. (cont.)
+Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/). (cont.)
 
-Hopkins, Gerard Manley. {{% resource_link "420d7866-8a67-4701-9322-2243f43f2587" "_As Kingfishers Catch Fire, Dragonflies Draw Flame_" %}}. \[Includes poem text and audio\]
+Hopkins, Gerard Manley. [_As Kingfishers Catch Fire, Dragonflies Draw Flame_](http://www.poets.org/viewmedia.php/prmMID/20757). \[Includes poem text and audio\]
 
 Keats, John. "Letter on Negative Capability, 1818" ({{% resource_link 3f376145-c3ac-c6c2-0fa9-5019b6ef2f23 "PDF" %}})
 
@@ -106,7 +106,7 @@ Chapter 6. "Constructing A Self." \[HV\]
 
 Whitman, Walt. _Beginning My Studies_. ({{% resource_link fa65de3b-a0cf-a5f9-a949-1c521f88c8f6 "PDF" %}})
 
-———. {{% resource_link "e677bd39-7484-461b-8a30-f2eb6c4be7a5" "_Song of Myself_" %}}.
+———. [_Song of Myself_](http://www.poets.org/viewmedia.php/prmMID/15755).
 
 
 {{< tdclose >}}
@@ -128,17 +128,17 @@ Coleman, Wanda. "Wanda Why Aren't You Dead." In _Heavy Daughter Blues: Poems and
 {{< tdopen >}}
 
 
-Whitman, Walt. "{{% resource_link "bfd5ed2d-c582-4670-a58a-4727657041ae" "Vigil Strange I Kept on the Field One Night" %}}." \[HV\]
+Whitman, Walt. "[Vigil Strange I Kept on the Field One Night](http://www.poemhunter.com/poem/vigil-strange-i-kept-on-the-field-one-night/)." \[HV\]
 
-Eliot, T. S. "{{% resource_link "b236be5a-aece-4048-89ae-ac5d67c41cf6" "The Love Song of J. Alfred Prufrock" %}}." \[HV\]
+Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." \[HV\]
 
-Bishop, Elizabeth. "{{% resource_link "c3201d49-39d1-490f-83fb-72b483013a5e" "At the Fishhouses" %}}." \[HV\]
+Bishop, Elizabeth. "[At the Fishhouses](http://www.poets.org/viewmedia.php/prmMID/15209)." \[HV\]
 
-———. "{{% resource_link "999c6ce4-b79e-485a-953b-e66ca662a3ad" "One Art" %}}." \[HV\]
+———. "[One Art](http://www.poets.org/viewmedia.php/prmMID/15212)." \[HV\]
 
-———. "{{% resource_link "da19b158-80f0-439d-9179-3806e2240aa9" "In the Waiting Room" %}}." New York, NY: Library of America, 2008. ISBN: 9781598530179. \[HV\]
+———. "[In the Waiting Room](http://www.poets.org/viewmedia.php/prmMID/15211)." New York, NY: Library of America, 2008. ISBN: 9781598530179. \[HV\]
 
-———. "{{% resource_link "e2b15dbe-7ff4-414c-9f74-d81898996456" "Sestina" %}}." \[HV\]
+———. "[Sestina](http://www.poemhunter.com/poem/sestina/)." \[HV\]
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Bishop, Elizabeth. "{{% resource_link "c3201d49-39d1-490f-83fb-72b483013a5e" "At
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Eliot, T. S. "{{% resource_link "b236be5a-aece-4048-89ae-ac5d67c41cf6" "The Love Song of J. Alfred Prufrock" %}}." (cont.) \[HV\]
+Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." (cont.) \[HV\]
 {{< tdclose >}}
 
 {{< trclose >}}
