@@ -17,9 +17,9 @@ General
 Essay guidelines ({{% resource_link 0643e958-7a28-e83f-48b1-731f6f803711 "PDF" %}})  
 Do's and don'ts for your essays and how to format and quote.
 
-{{% resource_link "accf2392-9293-47ef-81b2-d0f9c856b6ba" "Strategies for writing an effective introduction" %}}
+[Strategies for writing an effective introduction](https://writingcenter.unc.edu/tips-and-tools/introductions/)
 
-{{% resource_link "fb210de7-ac29-4008-98ad-e5f1b5d45ee6" "Topic Sentences" %}}
+[Topic Sentences](https://web.archive.org/web/20100129071053/http://www.nd.edu/~writing/resources/TopicSentences.htm)
 
 Background on sonnets ({{% resource_link 23cada3a-6a2d-d916-4942-6cc66e9926b3 "PDF" %}})  
 This goes with the reading assignments of Yeats and Wordsworth.
@@ -160,10 +160,10 @@ Week #13 (paper 4 revision)
 Useful Links
 ------------
 
-{{% resource_link "21d83767-e38f-4f2a-88dc-a259e4d5171f" "MLA Style: English and Other Humanities" %}}  
+[MLA Style: English and Other Humanities](https://necc.mass.libguides.com/citation/MLA)  
 A system for documenting sources, which is set forth in the _MLA Handbook for Writers of Research Papers_, 6th ed. (New York, NY: MLA, 2003).
 
-{{% resource_link "4377ea1c-527f-46db-a8d7-9e042232d91f" "Link to Sixty-Six: The Journal of Sonnet Studies" %}}  
+[Link to Sixty-Six: The Journal of Sonnet Studies](http://archive.is/kIQbQ)  
 _Sixty-Six_ is devoted to the sonnet form, in English and the other languages.
 
 {{< anchor "Student_Work" >}}{{< /anchor >}}Student Work
